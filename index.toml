@@ -316,6 +316,11 @@ hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
 metafile = true
 
 [[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "bd9e46ca1daa646b01b630a954c6b3ec811cc8093738eaa4d7c7347fc4d7e3f5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "f4a591edee7b9e24db0e5118e0c634d60d2736c2898de1a8cffacfab185b9a1a"
 metafile = true
