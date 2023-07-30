@@ -336,3 +336,43 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "fa56b2f1b54d9a5dcbdbf69ee6f24d9a17b01505169219c2c4e18005aff2184a"
+
+[[files]]
+file = "shaderpacks/chocapic.pw.toml"
+hash = "ba9c9d9f72d2e6c68ec0094938f2ef96a29d91337cf003983811a53b8c1fbec7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-extreme-vl.pw.toml"
+hash = "b389ebd18e3d342cc30ed51f86a4e68e600fbb4dd833ea4ef2c6602d1ed91406"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-extreme.pw.toml"
+hash = "2be55a9326f98ae1ebb3c12c15519d3f575280e9fb2d7aa65c1da0eb4cec6a26"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-high-mb.pw.toml"
+hash = "8434fc571c6cc17730c5c33ad22bc8188522dcdd4ccc13612814944015956c6d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-high.pw.toml"
+hash = "46076e1276bb2e6f2d2a0851a341a200b9e32363e35e39f8ed1ae46df23e96cd"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-lite.pw.toml"
+hash = "fc604b102b57e66bad7655adb511928147129e9ad03842c078d057bea0f158d1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-medium.pw.toml"
+hash = "fd1881f5f36c35e2e36b17dcc2ef406511d50a8f0f453d61656c9d425df36d2a"
+metafile = true
