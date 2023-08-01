@@ -9,6 +9,10 @@ file = "README.md"
 hash = "1e434870a7b1befa4119828b8e9550463dbb85092ba3074169ef4bd0b1719e2b"
 
 [[files]]
+file = "archive/Notes.md"
+hash = "2af55420d3e58298c4af3beb36a179188be2de0b4123c3c334780c8a499aa9e5"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -81,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "f438dc8ebf458a05ebd69a902b0b471adba17576e993ac6305231b615e7fc56a"
 metafile = true
 
 [[files]]
