@@ -313,6 +313,11 @@ hash = "75dc5008901144460bb14704dc94b714f596984c21fba53efec02f8233172112"
 metafile = true
 
 [[files]]
+file = "mods/we-cui.pw.toml"
+hash = "141ebd68b0b6fd5f8c7de4215ca38ef740f62b2cdc5aaa83ea996b4bad6d405f"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "786484bea788cde5078a5d47ec2ed71c24ced861a7ccaa4e4ab000c5886b1742"
 metafile = true
