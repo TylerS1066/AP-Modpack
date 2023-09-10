@@ -309,11 +309,6 @@ hash = "75dc5008901144460bb14704dc94b714f596984c21fba53efec02f8233172112"
 metafile = true
 
 [[files]]
-file = "mods/we-cui.pw.toml"
-hash = "141ebd68b0b6fd5f8c7de4215ca38ef740f62b2cdc5aaa83ea996b4bad6d405f"
-metafile = true
-
-[[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
 metafile = true
@@ -354,7 +349,7 @@ hash = "fa56b2f1b54d9a5dcbdbf69ee6f24d9a17b01505169219c2c4e18005aff2184a"
 
 [[files]]
 file = "shaderpacks/chocapic.pw.toml"
-hash = "ba9c9d9f72d2e6c68ec0094938f2ef96a29d91337cf003983811a53b8c1fbec7"
+hash = "711ca601f1ae57330926cef3aaa95750fe6664004b1ae40d99d67a6ccf881542"
 metafile = true
 
 [[files]]
