@@ -9,6 +9,10 @@ file = "README.md"
 hash = "1e434870a7b1befa4119828b8e9550463dbb85092ba3074169ef4bd0b1719e2b"
 
 [[files]]
+file = "config/rebrand.toml"
+hash = "e5459979a885c0a15dec0218325d1118635b473172540235db11c464e72a3f1b"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -271,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
+metafile = true
+
+[[files]]
+file = "mods/rebrand.pw.toml"
+hash = "d428d359a69cbb2cd197d421c33a72fb63c3148a8e898337e6b9fa806f670ff1"
 metafile = true
 
 [[files]]
