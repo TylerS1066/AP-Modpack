@@ -1,0 +1,7 @@
+name = "faithful-32x_honey"
+filename = "Faithful-Java-32x-Visual_Honey_Stages_v1.0.zip"
+
+[download]
+url = "https://github.com/hozz8528/Faithful-Java-32x-Visual_Honey_Stages/releases/download/v1.0/Faithful-Java-32x-Visual_Honey_Stages_v1.0.zip"
+hash-format = "sha256"
+hash = "86caa721a808bdf19227e94fe5cdd2d554b01fd11e3c0ef9194f122361c14f5c"

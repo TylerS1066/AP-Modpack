@@ -348,6 +348,36 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ctm-faithful.pw.toml"
+hash = "11a5c8bbffdb5db7c568738c1d186887c23f551bd905e94c2833eee35fa663df"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x-droppers-dispensers.pw.toml"
+hash = "130d3248a28759ff339e1ebcb9b9951b62ea08bf8541cf495340d491866461ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x-honey.pw.toml"
+hash = "938cf7b08167c6a972228404a2202d1ffe73018d985b522cd3b4f6ddcbe4cc88"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x-hoppers.pw.toml"
+hash = "39a487ce1c8650d132bfe7bb30e110c15df09f93f3242419f5b4b952067dcee9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x-observers.pw.toml"
+hash = "3ef26d5b85e4afd5c36b0e75deda54d8dbe91dd00f69dcf0c9b98e2e47cd01b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x-pistons.pw.toml"
+hash = "8ae8cf41535fc648b1b7dcaa5adcc2d726737f8701d7d5c0e87551820f1bbd1f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
 hash = "793f8f2437f0d66cc12496e300016bee115e6d74873dbf83008e37b63d533403"
 metafile = true

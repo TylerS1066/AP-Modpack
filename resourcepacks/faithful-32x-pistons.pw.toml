@@ -1,0 +1,7 @@
+name = "faithful-32x_pistons"
+filename = "Faithful-Java-32x-Sticky_Piston_Sides_v1.0.zip"
+
+[download]
+url = "https://github.com/hozz8528/Faithful-Java-32x-Sticky_Piston_Sides/releases/download/v1.0/Faithful-Java-32x-Sticky_Piston_Sides_v1.0.zip"
+hash-format = "sha256"
+hash = "2c7b2e9f7cb3e7cc02fcd0202b96bbca313d48e23a178d3bee4c0f33b8d9a1a9"

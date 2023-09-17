@@ -1,0 +1,7 @@
+name = "faithful-32x_hoppers"
+filename = "Faithful-Java-32x-Directional_Hopper+Bottom_Fix_v1.0.zip"
+
+[download]
+url = "https://github.com/hozz8528/Faithful-Java-32x-Directional_Hopper-Bottom_Fix/releases/download/v1.0/Faithful-Java-32x-Directional_Hopper+Bottom_Fix_v1.0.zip"
+hash-format = "sha256"
+hash = "75b7185ae77745bb812391f1d0ecd6d2507bf5d5b1133d15567c8f132b526059"

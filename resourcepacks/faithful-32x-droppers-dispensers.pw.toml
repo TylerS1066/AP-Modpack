@@ -1,0 +1,7 @@
+name = "faithful-32x_droppers-dispensers"
+filename = "Faithful-Java-32x-Directional_Droppers+Dispensers_v1.0.zip"
+
+[download]
+url = "https://github.com/hozz8528/Faithful-Java-32x-Directional_Droppers-Dispensers/releases/download/v1.0/Faithful-Java-32x-Directional_Droppers+Dispensers_v1.0.zip"
+hash-format = "sha256"
+hash = "b2a2ee28f2f5f2cb5049d12a29352d6c60ce4d79b9bde5448f8a853c2fe134de"
