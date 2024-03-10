@@ -44,12 +44,12 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
+hash = "bae8be543c1432b09beb4c93a67dc4e6c1304584453a4a5c8b2013178b0085b1"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
+hash = "7373603c1cf663abdc0030fa03914ca018458c393fd0c4553c70e3a8020ac407"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+hash = "3f3d863c0d7110522873a0a76da68ebb02135fe9eb877244dd7c38d7242a9059"
 metafile = true
 
 [[files]]
@@ -129,12 +129,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "f80e4a46fab9a9c99ebf3193f2c73675f6f6659fcd740692e14501213f633c70"
+hash = "ab1d960a017448e2279c22a4ec81a58117b997894668e9057cca482507bd2ed7"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "4d979c0f0902b82fc22fc60b741d3a9ce8331de9ffcc4f54658af92ff8ff8a81"
+hash = "fb744211aaf9d09de4cb9825172c9282be8d0bc11ff845ca7e0f2a98bad7f83d"
 metafile = true
 
 [[files]]
@@ -398,5 +398,5 @@ hash = "fa56b2f1b54d9a5dcbdbf69ee6f24d9a17b01505169219c2c4e18005aff2184a"
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+hash = "3de1f7f7e3359c12695569cbba3f1c436fb2d36de6ac5e3a032c17f430853f0e"
 metafile = true
