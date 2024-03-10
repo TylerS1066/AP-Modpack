@@ -1,13 +1,13 @@
 name = "CTM Faithful"
-filename = "CTM Faithful 0.2+1.20.2.zip"
+filename = "CTM Faithful 0.2+1.20.3.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qtbeFoLR/versions/78OuJQBn/CTM%20Faithful%200.2%2B1.20.2.zip"
+url = "https://cdn.modrinth.com/data/qtbeFoLR/versions/PEi2PvVq/CTM%20Faithful%200.2%2B1.20.3.zip"
 hash-format = "sha1"
-hash = "61afbd16528ba568d55cca18cc681ab257d1891c"
+hash = "38865f5792f36c3d9654f996f8ec124fff689c4c"
 
 [update]
 [update.modrinth]
 mod-id = "qtbeFoLR"
-version = "78OuJQBn"
+version = "PEi2PvVq"
