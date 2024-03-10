@@ -258,6 +258,11 @@ hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
+file = "mods/morecullingextra.pw.toml"
+hash = "195c57beb3db8380c6ffe13851490be377844ce96cbd142ae96625650b4badb3"
+metafile = true
+
+[[files]]
 file = "mods/no_fog.pw.toml"
 hash = "8d8b97075134e0489d2291ffc2390bfd1aec5eb4620559076ab1046c61e7427b"
 metafile = true
