@@ -13,18 +13,8 @@ file = "config/rebrand.toml"
 hash = "03a6d706efabf0ba13f4552f114314c0d3c1fa55ec43ca7e7055422ba7e1bc54"
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "068ffc5d9bee0b15d558725d7ddb67e82a6cb0849a6e1e0e3346d4fa9d34f5bc"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
-metafile = true
-
-[[files]]
-file = "mods/antighost.pw.toml"
-hash = "a1323e5f66dc9600ab40612bf705472425daf7f4ccf1037b921c25ddade0dac7"
 metafile = true
 
 [[files]]
@@ -45,11 +35,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8b13db034aecef8d45addf4f12aa024d35b905ae144df48542683e1b162ba4f9"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "4af854503d6f6dc4dfd963e21cae9118098bdbf9f0197c02209786241352ed85"
 metafile = true
 
 [[files]]
@@ -93,6 +78,11 @@ hash = "85eac9515ad23296eb86478fd6ab32c590f0ede7178a1b712408fc90e04823fe"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
@@ -109,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "8df56d685d7d3913ed73d9669a1147bdca2ca053641f656ac5e9dec2a174eb97"
+hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
 metafile = true
 
 [[files]]
@@ -150,11 +140,6 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "b91224d8b6110cbeca20c7905f2ae6032e8ccd992733829fbc6a79d2da957839"
-metafile = true
-
-[[files]]
-file = "mods/fadeless.pw.toml"
-hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
@@ -238,11 +223,6 @@ hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "052c3feacfce8e544cd4bc8b5abdc2283b9fa774a6993f337dee330d6123baba"
 metafile = true
@@ -255,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c0daa1b0438a80083fed9145abe9760e6d4b0f5d3f091ea12e893c32072c8899"
 metafile = true
 
 [[files]]
@@ -288,6 +273,16 @@ hash = "b2db81b53e71fc73306a4a5bafb7a33662e2e3da6d77210db607466cd4c41d49"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "a0626154090e5879cb832c75cbc98251e246f0142999d496ac0b084f29a2bc02"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "883b162391bc26090229e32efd6ec737385f7b15be8068eb9a5b9e50b1575c98"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "8252976c75ce8b8dfe49c7fb009900627e3ea9a2f237712b5d8d9cc1a7038228"
 metafile = true
@@ -295,11 +290,6 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
-metafile = true
-
-[[files]]
-file = "mods/rebrand.pw.toml"
-hash = "c8260514ec65a6a7d51b6d9b45d1c8483c0c1d81065ae1899d0f58f5c75bfc76"
 metafile = true
 
 [[files]]
