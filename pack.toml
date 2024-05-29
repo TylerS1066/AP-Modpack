@@ -1,12 +1,12 @@
 name = "AP"
 author = "TylerS1066"
-version = "1.20.1_r11+"
+version = "1.20.1_gamma-1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1039551ff9d29bd4131ab7697e5c1770372e8ca482791ce755a7850d206e4b8b"
+hash = "9798932e1bb5fa59876e31ec053f0bb39d71df8e66b7ceed80944bdb1a4d239e"
 
 [versions]
 fabric = "0.14.21"
