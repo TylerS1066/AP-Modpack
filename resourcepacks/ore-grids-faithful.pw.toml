@@ -1,0 +1,13 @@
+name = "Ore Grids Faithful"
+filename = "Ore-Grids-Faithful-4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lle48EBp/versions/gSOMKovP/Ore-Grids-Faithful-4.zip"
+hash-format = "sha1"
+hash = "8104d3a7da8efca11108af70aea49639c34a80f2"
+
+[update]
+[update.modrinth]
+mod-id = "Lle48EBp"
+version = "gSOMKovP"

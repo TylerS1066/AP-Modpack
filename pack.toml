@@ -1,16 +1,16 @@
 name = "AP"
 author = "TylerS1066"
-version = "1.20.1_r11"
+version = "1.20.4_alpha-1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a5c5969506073e4674b4982ee3f808138e3053b4055546a73f30678764044905"
+hash = "1f44f805435452cb6fae08e309804f189c91aa66c8adbfd474473d56d0f331c4"
 
 [versions]
-fabric = "0.14.21"
-minecraft = "1.20.1"
+fabric = "0.15.11"
+minecraft = "1.20.4"
 
 [options]
-acceptable-game-versions = ["1.20.1"]
+acceptable-game-versions = ["1.20.4"]
