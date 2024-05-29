@@ -358,6 +358,16 @@ hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
 metafile = true
 
 [[files]]
+file = "resourcepacks/black-concrete-util.pw.toml"
+hash = "fc99bef7ed72e43aff454742c8463c6112a45e3a884d085af26fcd57132621ad"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "6ba173154c8fe78d78524902a420006e0f1af92533d990fc36d14e55f33327b4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ctm-faithful.pw.toml"
 hash = "b26b4c429589d2055b17d8f219d6a4b1be070802bf8d9625cfbeb267242e9c94"
 metafile = true
@@ -394,7 +404,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
-hash = "bf36b75dd01b9d8bb9f85f3af9bafc3e37709ca19f01d5e3afdb0fd94186b488"
+hash = "1442464e67534f1864e8feca0b5f94dcbc2e019233ae81ae674493d7c3a64588"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ore-grids-faithful.pw.toml"
+hash = "35e8ce72a279359cc49c9d9a1ebe11c38c4640636660c9ba00a0525b8eb456b9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "4c331cf4309108852027aaaeb3cc3546f884451a34b88569a6cd03111834f26d"
 metafile = true
 
 [[files]]

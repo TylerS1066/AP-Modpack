@@ -1,0 +1,13 @@
+name = "Black Concrete Util"
+filename = "Black Concrete Util.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hniVIUuI/versions/vP2A279x/Black%20Concrete%20Util.zip"
+hash-format = "sha1"
+hash = "c7ef5ecb31077d3451a502564e3e8e4430552b1e"
+
+[update]
+[update.modrinth]
+mod-id = "hniVIUuI"
+version = "vP2A279x"
